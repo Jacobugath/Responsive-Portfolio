@@ -1,0 +1,14 @@
+#content {
+    height: 560px;
+}
+
+@media screen and (max-width: 960px) {
+    #content {
+        height: 900px;
+    }
+}
+@media screen and (max-width: 640px) {
+    #content {
+        height: 1300px;
+    }
+}
